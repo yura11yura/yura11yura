@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yura11yura
+- 👀 I’m interested in C++, python, javascript, and swift
+- 🌱 I’m currently learning C++ and swift
+- 💞️ I’m looking to collaborate on any interesting projects
+- 📫 How to reach me: riskyjoshua@mail.ru
