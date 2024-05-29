@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python, C++, javascript, and swift
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on any interesting projects
-- 📫 How to reach me: riskyjoshua@mail.ru
+- 📫 How to reach me: yura.terpogosyan@gmail.com
